@@ -1,0 +1,15 @@
+E:\BackEndCourse\c#\CSarpProjects\Level_B_Projects\LibrarySystem\LibrarySystem\bin\Debug\net8.0\LibrarySystem.exe
+E:\BackEndCourse\c#\CSarpProjects\Level_B_Projects\LibrarySystem\LibrarySystem\bin\Debug\net8.0\LibrarySystem.deps.json
+E:\BackEndCourse\c#\CSarpProjects\Level_B_Projects\LibrarySystem\LibrarySystem\bin\Debug\net8.0\LibrarySystem.runtimeconfig.json
+E:\BackEndCourse\c#\CSarpProjects\Level_B_Projects\LibrarySystem\LibrarySystem\bin\Debug\net8.0\LibrarySystem.dll
+E:\BackEndCourse\c#\CSarpProjects\Level_B_Projects\LibrarySystem\LibrarySystem\bin\Debug\net8.0\LibrarySystem.pdb
+E:\BackEndCourse\c#\CSarpProjects\Level_B_Projects\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEndCourse\c#\CSarpProjects\Level_B_Projects\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.AssemblyInfoInputs.cache
+E:\BackEndCourse\c#\CSarpProjects\Level_B_Projects\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.AssemblyInfo.cs
+E:\BackEndCourse\c#\CSarpProjects\Level_B_Projects\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.csproj.CoreCompileInputs.cache
+E:\BackEndCourse\c#\CSarpProjects\Level_B_Projects\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.sourcelink.json
+E:\BackEndCourse\c#\CSarpProjects\Level_B_Projects\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.dll
+E:\BackEndCourse\c#\CSarpProjects\Level_B_Projects\LibrarySystem\LibrarySystem\obj\Debug\net8.0\refint\LibrarySystem.dll
+E:\BackEndCourse\c#\CSarpProjects\Level_B_Projects\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.pdb
+E:\BackEndCourse\c#\CSarpProjects\Level_B_Projects\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.genruntimeconfig.cache
+E:\BackEndCourse\c#\CSarpProjects\Level_B_Projects\LibrarySystem\LibrarySystem\obj\Debug\net8.0\ref\LibrarySystem.dll

@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\LibrarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F3AA16-0638-4A9D-A383-8CAF84AD091B}|LibrarySystem\\LibrarySystem.csproj|e:\\backendcourse\\c#\\csarpprojects\\level_b_projects\\librarysystem\\librarysystem\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F3AA16-0638-4A9D-A383-8CAF84AD091B}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F3AA16-0638-4A9D-A383-8CAF84AD091B}|LibrarySystem\\LibrarySystem.csproj|e:\\backendcourse\\c#\\csarpprojects\\level_b_projects\\librarysystem\\librarysystem\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F3AA16-0638-4A9D-A383-8CAF84AD091B}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F3AA16-0638-4A9D-A383-8CAF84AD091B}|LibrarySystem\\LibrarySystem.csproj|e:\\backendcourse\\c#\\csarpprojects\\level_b_projects\\librarysystem\\librarysystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F3AA16-0638-4A9D-A383-8CAF84AD091B}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F3AA16-0638-4A9D-A383-8CAF84AD091B}|LibrarySystem\\LibrarySystem.csproj|e:\\backendcourse\\c#\\csarpprojects\\level_b_projects\\librarysystem\\librarysystem\\librarianuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F3AA16-0638-4A9D-A383-8CAF84AD091B}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\librarianuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F3AA16-0638-4A9D-A383-8CAF84AD091B}|LibrarySystem\\LibrarySystem.csproj|e:\\backendcourse\\c#\\csarpprojects\\level_b_projects\\librarysystem\\librarysystem\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F3AA16-0638-4A9D-A383-8CAF84AD091B}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F3AA16-0638-4A9D-A383-8CAF84AD091B}|LibrarySystem\\LibrarySystem.csproj|e:\\backendcourse\\c#\\csarpprojects\\level_b_projects\\librarysystem\\librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F3AA16-0638-4A9D-A383-8CAF84AD091B}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F3AA16-0638-4A9D-A383-8CAF84AD091B}|LibrarySystem\\LibrarySystem.csproj|e:\\backendcourse\\c#\\csarpprojects\\level_b_projects\\librarysystem\\librarysystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F3AA16-0638-4A9D-A383-8CAF84AD091B}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "user.cs",
+              "DocumentMoniker": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\LibrarySystem\\LibrarySystem\\user.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\user.cs",
+              "ToolTip": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\LibrarySystem\\LibrarySystem\\user.cs",
+              "RelativeToolTip": "LibrarySystem\\user.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswBQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:17:27.257Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "libraryCard.cs",
+              "DocumentMoniker": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\LibrarySystem\\LibrarySystem\\libraryCard.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\libraryCard.cs",
+              "ToolTip": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\LibrarySystem\\LibrarySystem\\libraryCard.cs",
+              "RelativeToolTip": "LibrarySystem\\libraryCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:18:15.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "librarianUser.cs",
+              "DocumentMoniker": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\LibrarySystem\\LibrarySystem\\librarianUser.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\librarianUser.cs",
+              "ToolTip": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\LibrarySystem\\LibrarySystem\\librarianUser.cs",
+              "RelativeToolTip": "LibrarySystem\\librarianUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:18:02.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "library.cs",
+              "DocumentMoniker": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\LibrarySystem\\LibrarySystem\\library.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\library.cs",
+              "ToolTip": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\LibrarySystem\\LibrarySystem\\library.cs",
+              "RelativeToolTip": "LibrarySystem\\library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:17:16.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "books.cs",
+              "DocumentMoniker": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\LibrarySystem\\LibrarySystem\\books.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\books.cs",
+              "ToolTip": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\LibrarySystem\\LibrarySystem\\books.cs",
+              "RelativeToolTip": "LibrarySystem\\books.cs",
+              "ViewState": "AQIAAAcAAAAAMzMzMzMLwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:17:04.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "librarian.cs",
+              "DocumentMoniker": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\LibrarySystem\\LibrarySystem\\librarian.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\librarian.cs",
+              "ToolTip": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\LibrarySystem\\LibrarySystem\\librarian.cs",
+              "RelativeToolTip": "LibrarySystem\\librarian.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:16:28.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\LibrarySystem\\LibrarySystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Program.cs",
+              "ToolTip": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\LibrarySystem\\LibrarySystem\\Program.cs",
+              "RelativeToolTip": "LibrarySystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:13:43.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

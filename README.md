@@ -1,17 +1,15 @@
-# Library System
-
 Welcome to the Library System project! This application is designed to manage books in a library, allowing librarians to add, remove, and manage books, while regular users can borrow books.
 
 ## Features
 
 - **Librarian Capabilities:**
-  - Add books
-  - Remove books
-  - Display all books
+  - Add books to the library
+  - Remove books from the library
+  - Display all books currently available in the library
 
 - **Regular User Capabilities:**
-  - Borrow books
-  - Display all books
+  - Borrow books from the library
+  - Display all books available in the library
 
 ## UML Diagram
 
